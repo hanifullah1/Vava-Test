@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Vava Test App",
+    "slug": "vava-test-app",
+    "version": "1.0.0",
+    "sdkVersion": "44.0.0",
+    "platforms": ["ios", "android"],
+    "ios": {
+      "bundleIdentifier": "com.hanifullah1.vavatest",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.hanifullah1.vavatest",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "A simple Expo app for Vava Test",
+    "githubUrl": "https://github.com/hanifullah1/Vava-Test"
+  }
+}
